@@ -5,7 +5,7 @@ Microservice Register Street
 * Spring Boot 
 * Swagger Documentação da API 
   - Link: http://localhost:8080/swagger-ui.html
-
+  ![alt text](https://github.com/reinaldojun/stoom-street/blob/main/src/main/resources/scripts/swagger.png)
 
 # Devera ser criado para execução do projeto a tabela street 
   script :stoom-street/src/main/resources/scripts/create_table_street.sql
